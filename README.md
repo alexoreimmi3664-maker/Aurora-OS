@@ -10,12 +10,13 @@ Since the file is 2.5 GB, I don't really know how to upload it to GitHub.
 
 ONE DAY LATER
 
-So I published a release of Aurora OS in parts. Download the source code ZIP and follow the instructions below.
-
+So I published Aurora OS in parts. Download the source code ZIP and follow the instructions below.
+33 secs later
+Umm... You can't download the file in bulk. Unless you use the dev console.
 
 ## Downloading
 Step 1:
-Download the zip file.
+Download the ZIP file.
 Follow the instructions below.
 
 ## How to Rejoin the ISO File
