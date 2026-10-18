@@ -8,6 +8,10 @@ Try it first with QEMU (https://qemu.org) and my QEMU VM MANAGER (https://github
 
 Since the file is 2.5 GB, I don't really know how to upload it to GitHub.
 
+ONE DAY LATER
+
+So I published a release of Aurora OS in parts. Download the source code ZIP and follow the instructions below.
+
 
 ## Downloading
 Step 1:
